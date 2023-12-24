@@ -48,7 +48,7 @@ Create a cozy scene of a house in the rain, where you can control the rain's dir
 - **Visuals**: Basic house structure using GL primitives.
 
 <img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/ce7fab5f-8615-45d4-b4d2-61559f9804d3" width="500" height="400"/>
-<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/9
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/355a9da6-752d-4dfc-b8b4-56dc7c9804d5" width="500" height="400"/>
 
 ## Moving Balls:
 
@@ -62,5 +62,5 @@ An interactive box where random points are generated upon right-clicks, moving i
 <img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/831f1817-5a37-4681-9b5a-16b09fa2b845" width="500" height="400"/>
 <img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/b403e854-9d3d-4297-aeae-d427c0ec5278" width="500" height="400"/>
 
-Each game in this repository aims to demonstrate the power of graphical programming in Python using OpenGL, focusing on interaction, physics, and visual aesthetics. Only midpoint line, circle algorithms, and point draw function were used to draw the objects in most of the games to enhance deep learning of the functionalities. Dive into the code to learn more about implementing these interactive elements and enjoy enhancing or playing them!
+Each game in this repository aims to demonstrate the power of graphical programming in Python using OpenGL, focusing on interaction, physics, and visual aesthetics. Only midpoint line, circle algorithms, and point draw function were used to draw the objects in most of the games to enhance deep learning of the functionalities.  Dive into the code to learn more about implementing these interactive elements and enjoy enhancing or playing them!
 
