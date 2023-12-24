@@ -12,7 +12,8 @@ Space Shooter is an intense 2D game where multiple obstacles fall, and the playe
 - **Difficulty**: Increases with more and faster obstacles.
 - **Lives**: 3 hearts representing health.
 
-![Space Shooter](https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/7a245296-37d4-4c17-ba36-ec2589c62ea0)
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/7a245296-37d4-4c17-ba36-ec2589c62ea0" width="500" height="400"/>
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/16f959b5-3359-4f98-92a7-0918f016a339" width="500" height="400"/>
 
 ## Diamond Catcher:
 
@@ -23,7 +24,8 @@ Catch falling diamonds before they hit the ground in this engaging 2D game. Use 
 - **Scoring**: Catch diamonds for points, visible on the console.
 - **Visuals**: Randomly colored diamonds falling from random positions.
 
-![Diamond Catcher](https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/39bccc05-11bc-4c53-90e9-81dede562d47)
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/39bccc05-11bc-4c53-90e9-81dede562d47" width="500" height="400"/>
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/a49ca168-7bd9-4893-9400-8dbcee61c6c5" width="500" height="400"/>
 
 ## Water Drops:
 
@@ -34,7 +36,8 @@ Simulate a serene water body with interactive water drops. Right-clicking genera
 - **Pause/Resume**: Spacebar to pause and resume the simulation.
 - **Visibility**: Circles grow until they exceed the screen boundary.
 
-![Water Drops](https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/3972ba3c-f9b8-4090-a875-c79f69c8dda4)
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/3972ba3c-f9b8-4090-a875-c79f69c8dda4" width="500" height="400"/>
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/935e9241-fcbf-40b2-9b18-559d30e0fc9f" width="500" height="400"/>
 
 ## House Rain:
 
@@ -44,7 +47,8 @@ Create a cozy scene of a house in the rain, where you can control the rain's dir
 - **Ambiance Control**: Assign keys to shift between day and night.
 - **Visuals**: Basic house structure using GL primitives.
 
-![House Rain](https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/ce7fab5f-8615-45d4-b4d2-61559f9804d3)
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/ce7fab5f-8615-45d4-b4d2-61559f9804d3" width="500" height="400"/>
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/9
 
 ## Moving Balls:
 
@@ -55,7 +59,8 @@ An interactive box where random points are generated upon right-clicks, moving i
 - **Blinking Effect**: Left-click for points to blink.
 - **Pause/Resume**: Spacebar to freeze or unfreeze points.
 
-![Moving Balls](https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/831f1817-5a37-4681-9b5a-16b09fa2b845)
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/831f1817-5a37-4681-9b5a-16b09fa2b845" width="500" height="400"/>
+<img src="https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/b403e854-9d3d-4297-aeae-d427c0ec5278" width="500" height="400"/>
 
-Each game in this repository aims to demonstrate the power of graphical programming in Python using OpenGL, focusing on interaction, physics, and visual aesthetics. Dive into the code to learn more about how these interactive elements are implemented and enjoy enhancing or playing them!
+Each game in this repository aims to demonstrate the power of graphical programming in Python using OpenGL, focusing on interaction, physics, and visual aesthetics. Only midpoint line, circle algorithms, and point draw function were used to draw the objects in most of the games to enhance deep learning of the functionalities. Dive into the code to learn more about implementing these interactive elements and enjoy enhancing or playing them!
 
