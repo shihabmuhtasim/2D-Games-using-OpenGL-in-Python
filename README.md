@@ -1,6 +1,15 @@
 # 2D-Games-using-OpenGL-in-Python
-
 This repository contains multiple games of OpenGL that are built in Python, showcasing various graphical and interactive elements through OpenGL primitives and Python programming. Each game is designed to provide a unique interactive experience, focusing on user engagement and graphical representation.
+
+![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/2D-Games-using-OpenGL-in-Python?color=f5f5dc)
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/2D-Games-using-OpenGL-in-Python?color=f5f5dc)
+![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/2D-Games-using-OpenGL-in-Python?color=f5f5dc)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shihabmuhtasim/2D-Games-using-OpenGL-in-Python?color=f5f5dc)
+![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/2D-Games-using-OpenGL-in-Python?color=f5f5dc)
+![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/2D-Games-using-OpenGL-in-Python?style=social)
+
+
+![14](https://github.com/shihabmuhtasim/2D-Games-using-OpenGL-in-Python/assets/92597456/ba97ecbe-d31b-408a-83e3-c9a0e8df19dd)
 
 ## Space Shooter:
 
